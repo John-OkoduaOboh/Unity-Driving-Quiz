@@ -41,7 +41,7 @@ Possible future features:
 * Randomly generated routes with different questions.
 * More maps for the user to drive in
 * More questions 
-* Car customization in some form i.e: color, Different car types.
+* Car customization in some form i.e: Color, Different car types.
 
 ## Contact
 Email: obohprincejohn@gmail.com
